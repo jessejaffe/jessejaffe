@@ -23,8 +23,6 @@ I'm a product-minded builder working at the intersection of AI, operations, and 
 
 `TypeScript` · `React` · `Next.js` · `Node.js` · `PostgreSQL` · `AI workflows` · `Product design`
 
-I care about clear interfaces, reliable systems, and getting working software into people's hands. Most of my current work lives in private repositories, so the contribution graph tells more of the story than the public repo list—for now.
-
 ## GitHub at a glance
 
 <div align="center">
