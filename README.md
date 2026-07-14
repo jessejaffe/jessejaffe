@@ -5,6 +5,7 @@
 ### I turn ambitious ideas into useful software.
 
 [![Telegram](https://img.shields.io/badge/Telegram-@jessethan-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/jessethan)
+[![Email](https://img.shields.io/badge/Email-jessethan1990%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:jessethan1990@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-@jessejaffe-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/jessejaffe)
 
 </div>
@@ -37,7 +38,7 @@ I care about clear interfaces, reliable systems, and getting working software in
 
 ## Let's connect
 
-Have an interesting product, workflow, or collaboration in mind? [Message me on Telegram](https://t.me/jessethan).
+Have an interesting product, workflow, or collaboration in mind? [Message me on Telegram](https://t.me/jessethan) or [send me an email](mailto:jessethan1990@gmail.com).
 
 <div align="center">
 
