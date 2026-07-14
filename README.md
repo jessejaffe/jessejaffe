@@ -36,6 +36,14 @@ I care about clear interfaces, reliable systems, and getting working software in
 
 > A privacy-safe snapshot of selected work, updated July 2026. Language percentages measure code volume, not skill level.
 
+## Contribution rhythm
+
+<div align="center">
+
+[![Jesse's GitHub contribution calendar](https://ghchart.rshah.org/jessejaffe)](https://github.com/jessejaffe?tab=overview&from=2025-07-01&to=2026-07-14)
+
+</div>
+
 ## Let's connect
 
 Have an interesting product, workflow, or collaboration in mind? [Message me on Telegram](https://t.me/jessethan) or [send me an email](mailto:jessethan1990@gmail.com).
