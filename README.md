@@ -29,7 +29,7 @@ I care about clear interfaces, reliable systems, and getting working software in
 
 <div align="center">
 
-<img height="180" src="assets/github-stats.svg" alt="Jesse's GitHub stats: 1,119 contributions in the last year" />
+<img height="180" src="assets/github-stats.svg" alt="Jesse's GitHub stats: more than 1,100 contributions in the last year" />
 <img height="180" src="assets/languages.svg" alt="Languages across selected projects, led by TypeScript" />
 
 </div>
