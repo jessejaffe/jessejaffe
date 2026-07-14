@@ -10,14 +10,13 @@
 
 </div>
 
-I'm a product-minded builder working at the intersection of **AI, operations, and thoughtful user experience**. I like taking a messy real-world workflow, finding the part software can make simpler, and shipping the whole thing—from the interface to the data model to production.
+I'm a product-minded builder working at the intersection of AI, operations, and thoughtful user experience. I like automating manual workflows, finding ways to cut costs or increase revenue, and handling the full stack. I'm comfortable with big data and complex operations. What matters most to me is working on things that impact people, alleviate pain and suffering, and make the world a better place.
 
 ## What I'm building
 
-- 🧲 **AI-powered sales operations** — research, qualification, outreach, and workflow tools for matchmaking teams
-- 💡 **EcoFi** — a touch-friendly field-plan editor for placing and connecting lighting symbols
-- 📸 **Photo-rating systems** — multi-role tools for coordinating large-scale human review workflows
-- 🌐 **Focused web experiences** — fast, accessible sites that help ideas and stories reach people
+- 🤖 **AI-powered CRM** — automating research, qualification, outreach, and operational workflows
+- 🛡️ **AI-powered cyberbullying advice** — turning what I learned from my first startup and years in the field into practical, accessible guidance
+- 📖 **[The Bully Stops Here](https://thebullystopshere.com/)** — my free illustrated anti-bullying book, with practical help for teens, young adults, parents, and educators; the site also links to the print edition on Amazon
 
 ## How I work
 
@@ -31,25 +30,5 @@ I care about clear interfaces, reliable systems, and getting working software in
 
 <img height="180" src="assets/github-stats.svg" alt="Jesse's GitHub stats: more than 1,100 contributions in the last year" />
 <img height="180" src="assets/languages.svg" alt="Languages across selected projects, led by TypeScript" />
-
-</div>
-
-> A privacy-safe snapshot of selected work, updated July 2026. Language percentages measure code volume, not skill level.
-
-## Contribution rhythm
-
-<div align="center">
-
-[![Jesse's GitHub contribution calendar](https://ghchart.rshah.org/jessejaffe)](https://github.com/jessejaffe?tab=overview&from=2025-07-01&to=2026-07-14)
-
-</div>
-
-## Let's connect
-
-Have an interesting product, workflow, or collaboration in mind? [Message me on Telegram](https://t.me/jessethan) or [send me an email](mailto:jessethan1990@gmail.com).
-
-<div align="center">
-
-_Build something useful. Learn from the people using it. Make the next version better._
 
 </div>
