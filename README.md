@@ -16,7 +16,7 @@ I'm a product-minded builder working at the intersection of AI, operations, and 
 
 - 🤖 **AI-powered CRM** — automating research, qualification, outreach, and operational workflows
 - 🛡️ **AI-powered cyberbullying advice** — turning what I learned from my first startup and years in the field into practical, accessible guidance
-- 📖 **[The Bully Stops Here](https://thebullystopshere.com/)** — my free illustrated anti-bullying book, with practical help for teens, young adults, parents, and educators; the site also links to the print edition on Amazon
+- 📖 **[The Bully Stops Here](https://thebullystopshere.com/)** — my free illustrated anti-bullying book, with practical help for teens, young adults, parents, and educators.
 
 ## How I work
 
