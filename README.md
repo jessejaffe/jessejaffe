@@ -14,10 +14,10 @@ I'm a product-minded builder working at the intersection of AI, operations, and 
 
 ## What I'm building
 
-- 🤖 **AI-powered CRM** — automating research, qualification, outreach, and operational workflows
 - 🛡️ **AI-powered cyberbullying advice** — turning what I learned from my first startup and years in the field into practical, accessible guidance
   - 📖 **[The Bully Stops Here](https://thebullystopshere.com/)** — my free illustrated anti-bullying book, with practical help for teens, young adults, parents, and educators.
 - 📸 **Photo-rating systems** — multi-role tools for collecting ratings on photos and semi-automated photo-labeling workflows that maximize accuracy for subjective queries
+- 🤖 **AI-powered CRM** — automating research, qualification, outreach, and operational workflows
 
 ## How I work
 
