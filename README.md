@@ -27,7 +27,7 @@ I'm a product-minded developer working at the intersection of AI, operations, an
 
 <div align="center">
 
-<img height="180" src="assets/github-stats.svg" alt="Jesse's GitHub stats: more than 1,100 contributions in the last year" />
+<img height="180" src="assets/github-stats.svg" alt="Jesse's automatically updated GitHub stats" />
 <img height="180" src="assets/languages.svg" alt="Languages across selected projects, led by TypeScript" />
 
 </div>
