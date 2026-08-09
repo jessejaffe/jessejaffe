@@ -21,13 +21,13 @@ I'm a product-minded developer working at the intersection of AI, operations, an
 
 ## How I work
 
-`TypeScript` · `React` · `Next.js` · `Node.js` · `PostgreSQL` · `AI workflows` · `Product design`
+`TypeScript` · `C++` · `Python` · `React` · `Next.js` · `Node.js` · `PostgreSQL` · `AI workflows` · `Product design`
 
 ## GitHub at a glance
 
 <div align="center">
 
 <img height="180" src="assets/github-stats.svg" alt="Jesse's automatically updated GitHub stats" />
-<img height="180" src="assets/languages.svg" alt="Languages across selected projects, led by TypeScript" />
+<img height="180" src="assets/languages.svg" alt="Languages across all projects, led by TypeScript and C++" />
 
 </div>
