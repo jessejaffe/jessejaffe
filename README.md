@@ -18,7 +18,7 @@ I'm a product-minded developer working at the intersection of AI, operations, an
   - 📖 **[The Bully Stops Here](https://thebullystopshere.com/)** — my free illustrated anti-bullying book website, with practical help for teens, young adults, parents, and educators. It hosts the first iteration of automated bullying advice at scale. 
 - 📸 **Photo-rating systems** — multi-role tools for collecting ratings on photos and semi-automated photo-labeling workflows that maximize accuracy for subjective queries
 - 🧭 **[Codex Orchestration](https://github.com/jessejaffe/codex-orchestration)** — Codex-native orchestration that routes tasks to smaller models based on complexity
-- 🧩 **[Openable](https://openable.fyi/)** — a digital-preservation health check with local scanning and recovery for ordinary people and personal archives
+- 🧩 **[Openable](https://openable.fyi/)** — Recover damaged and corrupted files, privately in your browser.
 
 ## How I work
 
