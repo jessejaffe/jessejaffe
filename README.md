@@ -17,7 +17,8 @@ I'm a product-minded developer working at the intersection of AI, operations, an
 - 🛡️ **AI-powered cyberbullying advice** — turning what I learned from my first startup and years in the field into practical, accessible guidance
   - 📖 **[The Bully Stops Here](https://thebullystopshere.com/)** — my free illustrated anti-bullying book website, with practical help for teens, young adults, parents, and educators. It hosts the first iteration of automated bullying advice at scale. 
 - 📸 **Photo-rating systems** — multi-role tools for collecting ratings on photos and semi-automated photo-labeling workflows that maximize accuracy for subjective queries
-- 🤖 **AI-powered CRM** — automating research, qualification, outreach, and operational workflows
+- 🧭 **[Codex Orchestration](https://github.com/jessejaffe/codex-orchestration)** — Codex-native orchestration that routes tasks to smaller models based on complexity
+- 🧩 **[Openable](https://openable.dev/)** — running AI-generated apps locally without setup friction, with GitHub sync and one-click Cursor editing
 
 ## How I work
 
